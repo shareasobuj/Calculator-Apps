@@ -1,11 +1,5 @@
 # Calculator-Apps
-This Is My Calculator Apps
-
-<body>
-    <header>
-        <h1> SHAREA SOBUJ</h1>
-        <marquee > Welcome To My Calculator Apps</marquee>
-    </header>
+This Is My Calculator
 
     <div class="calculator">
         <input type="text" id="display" disabled>
