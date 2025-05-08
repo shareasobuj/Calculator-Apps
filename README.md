@@ -31,7 +31,7 @@ This Is My Calculator Apps
             <button class="equal" onclick="calculate()">=</button>
 
             <button class="operator" onclick="appendValue('/')">÷</button>
-            <button class="backspace"onclick="backspace('x')" >x</button>
+            
         </div>
     </div>
    
